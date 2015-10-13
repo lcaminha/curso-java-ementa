@@ -76,6 +76,8 @@ Rascunho da ementa do Curso de Java
 * \#46: Interface e herança
 * Correção Exercícios de Laboratório Aula 46
 
+
+# Tratamento de Erros
 * \#47: Exceptions: try, catch
 * \#48: Exceptions: multiplos catch
 * \#49: Exceptions: finally
