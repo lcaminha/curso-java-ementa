@@ -121,5 +121,5 @@ Rascunho da ementa do Curso de Java
 * Iterator
 * Interface Map
 * Comparator
-* Algoritmos Collection
+* Algoritmos Collection (ordenação e bus)
 * Classes e Interfaces legadas (Java 4)
