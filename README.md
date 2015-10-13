@@ -104,4 +104,22 @@ Rascunho da ementa do Curso de Java
 * Locale
 * Formatter
 
-# Classes Utilitárias
+# Threads
+* Threads
+ 
+# Collections e Generics
+* Interface Collection 
+* Interface List 
+* ArrayList
+* LinkedList
+* Interface Set
+* HashSet
+* LinkedHashSet 
+* Interface SortedSet 
+* Interface Queue 
+* PriorityQueue
+* Iterator
+* Interface Map
+* Comparator
+* Algoritmos Collection
+* Classes e Interfaces legadas (Java 4)
