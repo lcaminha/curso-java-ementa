@@ -105,7 +105,8 @@ Rascunho da ementa do Curso de Java
 * Formatter
 
 # Threads
-* Threads
+* Introdução a Threads
+* Criando Threads
  
 # Collections e Generics
 * Interface Collection 
@@ -123,6 +124,7 @@ Rascunho da ementa do Curso de Java
 * Comparator
 * Algoritmos Collection (ordenação e busca)
 * Classes e Interfaces legadas (Java 4)
+* Generics
 
 # I/O: Leitura e Escrita de Arquivos
 * conteúdo a ser definido
@@ -134,6 +136,9 @@ Rascunho da ementa do Curso de Java
 * conteúdo a ser definido
 
 # Interface Gráfica com Java FX
+* conteúdo a ser definido
+
+# Expressões Lambda (Java 8)
 * conteúdo a ser definido
 
 # Banco de Dados com JDBC
