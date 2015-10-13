@@ -109,14 +109,14 @@ Rascunho da ementa do Curso de Java
  
 # Collections e Generics
 * Interface Collection 
-* Interface List 
+* Interface List (Lista/Arrays)
 * ArrayList
 * LinkedList
-* Interface Set
+* Interface Set (Conjunto)
 * HashSet
 * LinkedHashSet 
 * Interface SortedSet 
-* Interface Queue 
+* Interface Queue (Fila)
 * PriorityQueue
 * Iterator
 * Interface Map
