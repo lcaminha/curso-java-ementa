@@ -121,5 +121,23 @@ Rascunho da ementa do Curso de Java
 * Iterator
 * Interface Map
 * Comparator
-* Algoritmos Collection (ordenação e bus)
+* Algoritmos Collection (ordenação e busca)
 * Classes e Interfaces legadas (Java 4)
+
+# I/O: Leitura e Escrita de Arquivos
+* conteúdo a ser definido
+
+# NIO: Leitura e Escrita de Arquivos (Java 7)
+* conteúdo a ser definido
+
+# Interface Gráfica com Swing
+* conteúdo a ser definido
+
+# Interface Gráfica com Java FX
+* conteúdo a ser definido
+
+# Banco de Dados com JDBC
+* conteúdo a ser definido
+
+# Projeto Final
+* conteúdo a ser definido
