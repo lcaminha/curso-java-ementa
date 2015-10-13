@@ -85,4 +85,23 @@ Rascunho da ementa do Curso de Java
 * \#52: Exceptions: criando sua própria exceção
 * Correção Exercícios Aula 52: Exceptions
 
-# Elementos da linguagem Java
+# Elementos básicos da linguagem Java
+* Autoboxing
+* Enumeradores (Enum)
+* Passagem de parâmetros por valor e por referência
+* Varargs
+* Classes aninhadas e internas
+* Annotations
+* Garbage Collector
+* Operador ?
+
+# Classes Utilitárias
+* String
+* StringBuilder e StringBuffer
+* String Tokenizer
+* Math
+* Date e Calendar
+* Locale
+* Formatter
+
+# Classes Utilitárias
